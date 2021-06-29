@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body{
+	background-color: rgb(188, 248, 248);
+}
+input:focus{
+	outline: none;
+}
+.head{
+	border: 1px solid silver;
+	border-radius: 20px;
+	border-top: 20px solid deepskyblue; 
+	padding: 20px;
+	margin: 20px;
+	background-color: #FFF;
+}
+h1{
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+}
+h4{
+	color: red;
+}
+.Email{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+}
+.name{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+}
+.tel{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+}
+.gender{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+}
+
+label{
+	font-size: 18px;
+}
+input{
+	border: none;
+	border-bottom: 1px solid black;
+	width:40%;
+}
+
+.greenbar{
+	float: right;
+	margin-right: 20px;
+}
+
+
